@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /book
+Disallow: /search
+
+Sitemap: https://rockypoint4rent.com/sitemap.xml

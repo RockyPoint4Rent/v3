@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://rockypoint4rent.com/</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1268855/pexels-photo-1268855.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200</image:loc>
+      <image:title>Rocky Point 4 Rent | Rocky Point Vacation Rentals</image:title>
+    </image:image>
+  </url>
+
+  <!-- SEO Landing Pages -->
+  <url>
+    <loc>https://rockypoint4rent.com/rocky-point-rentals</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200</image:loc>
+      <image:title>Rocky Point Rentals | Book Direct Vacation Homes in Puerto Peñasco</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rockypoint4rent.com/puerto-penasco-vacation-rentals</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200</image:loc>
+      <image:title>Puerto Peñasco Vacation Rentals | Rocky Point Beach Homes</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rockypoint4rent.com/rocky-point-rentals-from-arizona</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1268855/pexels-photo-1268855.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200</image:loc>
+      <image:title>Rocky Point Rentals from Arizona | Phoenix &amp; Tucson Beach Getaways</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rockypoint4rent.com/rocky-point-rentals-from-texas</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200</image:loc>
+      <image:title>Rocky Point Rentals from Texas | Puerto Peñasco Vacation Homes</image:title>
+    </image:image>
+  </url>
+
+  <!-- Property Detail Pages -->
+  <url>
+    <loc>https://rockypoint4rent.com/casa-margaritas</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dq9mbqfct/image/upload/WhatsApp_Image_2026-04-15_at_10.21.05_PM_i2zdmx.jpg</image:loc>
+      <image:title>Casa Margaritas | Rocky Point Vacation Rental | Book Direct</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rockypoint4rent.com/casa-tropical-mango</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dq9mbqfct/image/upload/v1778347793/mango_jcbjpi.png</image:loc>
+      <image:title>Casa Tropical Mango | Rocky Point Vacation Rental | Book Direct</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rockypoint4rent.com/casa-delphine</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dq9mbqfct/image/upload/WhatsApp_Image_2026-04-15_at_10.30.52_PM_uncyqm.jpg</image:loc>
+      <image:title>Casa Delphine | Rocky Point Vacation Rental | Book Direct</image:title>
+    </image:image>
+  </url>
+
+</urlset>

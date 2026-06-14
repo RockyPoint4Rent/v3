@@ -1,0 +1,1 @@
+DELETE FROM reservations WHERE guest_email LIKE '%@booking.local';
